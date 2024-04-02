@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\testwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\testwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\testwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\testwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|d:\\\u0441 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\project mpt\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B visual studio\\wpffuck\\pract4\\pract4\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\notestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\notestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\redactorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\redactorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\jsonserdeser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\jsonserdeser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\redactorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\redactorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\notestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1114FDA-C656-4817-90EC-26146882DF7D}|pract4\\pract4.csproj|solutionrelative:pract4\\notestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\Desktop\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestPage.xaml.cs",
+              "RelativeDocumentMoniker": "pract4\\TestPage.xaml.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestPage.xaml.cs",
+              "RelativeToolTip": "pract4\\TestPage.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:52:26.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPage.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestPage.xaml",
+              "RelativeDocumentMoniker": "pract4\\TestPage.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestPage.xaml",
+              "RelativeToolTip": "pract4\\TestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T18:57:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoTestPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\NoTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "pract4\\NoTestPage.xaml.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\NoTestPage.xaml.cs",
+              "RelativeToolTip": "pract4\\NoTestPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:24:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "test.json",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\test.json",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\test.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABxAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T20:17:38.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedactorPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\RedactorPage.xaml.cs",
+              "RelativeDocumentMoniker": "pract4\\RedactorPage.xaml.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\RedactorPage.xaml.cs",
+              "RelativeToolTip": "pract4\\RedactorPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:30:38.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedactorPage.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\RedactorPage.xaml",
+              "RelativeDocumentMoniker": "pract4\\RedactorPage.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\RedactorPage.xaml",
+              "RelativeToolTip": "pract4\\RedactorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T18:57:58.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestClass.cs",
+              "RelativeDocumentMoniker": "pract4\\TestClass.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestClass.cs",
+              "RelativeToolTip": "pract4\\TestClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:27:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoTestPage.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\NoTestPage.xaml",
+              "RelativeDocumentMoniker": "pract4\\NoTestPage.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\NoTestPage.xaml",
+              "RelativeToolTip": "pract4\\NoTestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T18:57:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pract4\\TestWindow.xaml.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestWindow.xaml.cs",
+              "RelativeToolTip": "pract4\\TestWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:55:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonSerDeser.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\JsonSerDeser.cs",
+              "RelativeDocumentMoniker": "pract4\\JsonSerDeser.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\JsonSerDeser.cs",
+              "RelativeToolTip": "pract4\\JsonSerDeser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:50:13.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestWindow.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestWindow.xaml",
+              "RelativeDocumentMoniker": "pract4\\TestWindow.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\TestWindow.xaml",
+              "RelativeToolTip": "pract4\\TestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T15:55:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pract4\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\MainWindow.xaml",
+              "RelativeToolTip": "pract4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T15:47:40.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pract4\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract4\\pract4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pract4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:47:37.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

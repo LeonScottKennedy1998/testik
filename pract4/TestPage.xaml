@@ -1,0 +1,28 @@
+﻿<Page x:Class="pract4.TestPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pract4"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TestPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <Label x:Name="TitleLabel" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+        <Label x:Name="DescriptionLabel" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16"/>
+        <Label x:Name="WrongOrRight" Visibility="Collapsed" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" />
+        <Button x:Name="Answer1Button" Grid.Row="3" Click="Answer1Button_Click"/>
+        <Button x:Name="Answer2Button" Grid.Row="4" Click="Answer2Button_Click"/>
+        <Button x:Name="Answer3Button" Grid.Row="5" Click="Answer3Button_Click"/>
+    </Grid>
+</Page>
